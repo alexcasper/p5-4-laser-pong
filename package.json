@@ -1,0 +1,15 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "reload",
+    "test": "echo 'tests not installed'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "reload": "^3.0.4"
+  }
+}
